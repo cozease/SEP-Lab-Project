@@ -1,0 +1,14 @@
+Please input the student id and score(or input q to quit): Wrong score!
+Please input the student id and score(or input q to quit): Wrong score!
+Please input the command: Please input the class name (or input q to quit): The highest score is: 90.00
+Please input the class name (or input q to quit): The highest score is: 90.00
+Please input the class name (or input q to quit): The highest score is: 78.00
+GPA,AVG = 3.20,77.60
+GPA,AVG = 2.00,0.00
+GPA,AVG = 3.40,82.80
+Please input the student id (or input q to quit): No match student!
+GPA,AVG = 4.14,82.88
+GPA,AVG = 3.23,64.50
+GPA,AVG = 3.50,70.00
+GPA,AVG = 1.41,28.12
+GPA,AVG = 0.00,0.00

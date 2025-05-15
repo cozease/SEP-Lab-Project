@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/Furina.png</file>
+        <file>resources/Nahida.png</file>
+        <file>resources/RaidenShogun.png</file>
+        <file>resources/Venti.png</file>
+        <file>resources/Zhongli.png</file>
+        <file>resources/main_scene_bg.jpg</file>
+        <file>resources/Paimon.png</file>
+        <file>resources/set_scene_bg.png</file>
+        <file>resources/title.png</file>
+        <file>resources/play_scene_bg.jpg</file>
+        <file>resources/Traveler_0.png</file>
+        <file>resources/Traveler_1.png</file>
+        <file>resources/game_over_bg.jpg</file>
+        <file>resources/shuffle_prop.png</file>
+        <file>resources/hint_prop.png</file>
+        <file>resources/flash_prop.png</file>
+        <file>resources/extra_time_prop.png</file>
+        <file>resources/freeze_prop.png</file>
+        <file>resources/dizzy_prop.png</file>
+        <file>resources/main_scene_bgmusic.flac</file>
+        <file>resources/play_scene_bgmusic.flac</file>
+    </qresource>
+</RCC>
